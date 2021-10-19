@@ -1,12 +1,13 @@
 ---
-header_brand: "Toulenne Ongles - Prenez soin de vous"
+header_brand: "Prenez soin de vous"
+logo: "images/logo-toulennes-ongles.png"
 header_tagline_paragraph: "« Miroir, mon beau miroir, dis-moi qui a les plus beaux ongles ? » Il se pourrait bien que ce soit vous après votre rendez-vous au salon de manucure Toulenne Ongles, à Toulenne entre Bordeaux et Marmande ! La talentueuse Dorothée, styliste ongulaire, vous y reçoit dans un cadre chaleureux et convivial le temps d’un soin 100 % sur mesure : pose de faux ongles, vernis semi-permanent, manucure, beauté des pieds…"
 header_button_cta:
   url: "https://www.planity.com/toulenne-ongles-33210"
   title: "Prenez rendez-vous !"
 header_button_more:
-  url: "#me-découvrir"
-  title: "Qui-suis-je ?"
+  url: "#mes-tarifs"
+  title: "Mes Tarifs !"
 teaser_image: "images/nails1.jpeg"
 ---
 
@@ -35,7 +36,7 @@ Si elles vous plaisent, prenez [rendez-vous](https://www.planity.com/toulenne-on
 # Mes tarifs
 
 
-|   Prestation   |   Prix |   Durée |
+|   Mains Gel ou Résine   |   Prix |   Durée |
 |---    |:-:    |:-:    |:-:    |--:    |
 |  Pose complète + French blanche  |   42€  |  1h15 |
 |  Pose complète + gel couleur     |   43€  |  1h15 |
@@ -44,6 +45,24 @@ Si elles vous plaisent, prenez [rendez-vous](https://www.planity.com/toulenne-on
 |  Dépose                          |   20€  |  45min |
 |  Ongle cassé                     |    5€  |  30min |
 
+
+|   Pieds   |   Prix |   Durée |
+|---    |:-:    |:-:    |:-:    |--:    |
+|  Beauté des pieds anti callosité " calluspelling "      |    35€  |  1h |
+|  Semi Permanent pied             |    20€ |  30min |
+
+|   Pose de Vernis / Vernis Semi permanent Mains  |   Prix |   Durée |
+|---    |:-:    |:-:    |:-:    |--:    |
+|  Pose de vernis uni  / French    |   10€ à 12€  |  30min |
+|Vernis semi permanent uni / French|    23€ à 25€  |  45min |
+| Dépose + Repose  uni/ french     |    25€ à 27€  |  1h |
+|  Dépose semi-permanent           |    10€  |  30m |
+
+|   Décoration   |   Prix |   Durée |
+|---    |:-:    |:-:    |:-:    |--:    |
+|  Pochoir couleur airbrush/ Strass/ noeud 3D/ nail art/ one stroke *  |    0.23€ à 3€   |  1min |
+
+_\* cette prestation ne peut pas être réservée en ligne. Merci d'appeler le 06 74 39 12 12._
 
 ![Prototype Work](images/nails3.jpg)
 

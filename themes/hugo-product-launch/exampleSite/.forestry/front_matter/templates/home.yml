@@ -32,5 +32,8 @@ fields:
   - type: file
     name: teaser_image
     label: Header Teaser Image
+  - type: file
+    name: logo
+    label: Header Teaser Logo
 pages:
   - content/_index.md
